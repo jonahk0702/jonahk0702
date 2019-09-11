@@ -1,0 +1,24 @@
+#Main{
+
+	text-align: center;
+
+}
+
+body{
+
+background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 10%, rgba(0,130,193,1) 90%);
+}
+
+.col{
+	text-align: center;
+	margin: 5%;
+	
+	border: double;
+}
+
+
+.heading{
+	padding: 3%;
+
+}
